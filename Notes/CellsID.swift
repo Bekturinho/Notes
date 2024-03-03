@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct CellsID{
+    static var cell: String = "cell"
+}
+
+
